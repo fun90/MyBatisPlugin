@@ -1,4 +1,6 @@
-# MybatisPlugin
+# “屌丝版”软件合集
+
+## MybatisPlugin
 使用Main方法计算出KEY和RESULT
 
 KEY和RESULT的使用方法:
